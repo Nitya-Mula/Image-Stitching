@@ -1,6 +1,7 @@
 # Image-Stitching
 
 The above program does Image Stitching of two images.
+
 Flow: 
   - Extracting features from the images
   - Computing the descriptors of the images
